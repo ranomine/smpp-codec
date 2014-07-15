@@ -1,0 +1,19 @@
+{
+	"category" : "SMPP-Connection",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"writeQueue",
+		"nextSeq",
+		"systemId",
+		"password",
+		"systemType",
+		"pendingCommands" ],
+	"name" : "SMPPConnection",
+	"pools" : [
+		 ],
+	"super" : "OsmoStreamSocketBase",
+	"type" : "normal" }

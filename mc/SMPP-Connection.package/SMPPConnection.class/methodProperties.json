@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"connect" : "",
+		"createConnection:port:" : "",
+		"dispatchOne" : "",
+		"password:" : "",
+		"receviedResponse:" : "",
+		"respondToEnquire:" : "",
+		"scheduleBindTrx" : "",
+		"send:onResponse:" : "",
+		"sendOne" : "",
+		"systemId:" : "",
+		"systemType:" : "" } }
