@@ -1,0 +1,14 @@
+{
+	"category" : "SMPP-Codec",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SMPPDataCoding",
+	"pools" : [
+		 ],
+	"super" : "SMPPInteger",
+	"type" : "normal" }

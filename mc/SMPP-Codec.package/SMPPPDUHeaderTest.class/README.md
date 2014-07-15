@@ -1,0 +1,1 @@
+I test reading and writing most of the SMPP header.

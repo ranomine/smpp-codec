@@ -1,0 +1,14 @@
+{
+	"category" : "SMPP-Codec",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SMPPEnquireLink",
+	"pools" : [
+		 ],
+	"super" : "SMPPBodyBase",
+	"type" : "normal" }

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"readFrom:" : "" },
+	"instance" : {
+		"commandId" : "",
+		"commandId:" : "",
+		"commandStatus" : "",
+		"commandStatus:" : "",
+		"sequenceNumber" : "",
+		"sequenceNumber:" : "",
+		"writeOn:" : "" } }

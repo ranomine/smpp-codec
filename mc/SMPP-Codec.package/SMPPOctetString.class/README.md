@@ -1,0 +1,1 @@
+I represent a variable string as used in SMPP

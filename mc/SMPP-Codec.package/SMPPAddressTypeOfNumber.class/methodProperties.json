@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"tlvDescription" : "",
+		"tonAbbreviated" : "",
+		"tonAlphanumeric" : "",
+		"tonInternational" : "",
+		"tonNational" : "",
+		"tonNetworkSpecific" : "",
+		"tonSubscriberNumber" : "",
+		"tonUnknown" : "" },
+	"instance" : {
+		 } }

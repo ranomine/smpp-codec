@@ -1,0 +1,15 @@
+{
+	"category" : "SMPP-Codec",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"tag",
+		"value" ],
+	"name" : "SMPPValueHolder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

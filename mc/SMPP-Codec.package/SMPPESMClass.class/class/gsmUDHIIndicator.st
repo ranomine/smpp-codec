@@ -1,0 +1,3 @@
+ESME or SMSC
+gsmUDHIIndicator
+	^2r01000000

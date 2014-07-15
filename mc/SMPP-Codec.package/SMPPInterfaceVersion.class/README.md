@@ -1,0 +1,1 @@
+I re-present 5.2.4 of SMPPv3.4

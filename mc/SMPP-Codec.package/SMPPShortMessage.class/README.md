@@ -1,0 +1,1 @@
+I represent the sm_length and short_message

@@ -1,0 +1,3 @@
+ESME->SMSC
+typeBitMask
+	^2r00111100

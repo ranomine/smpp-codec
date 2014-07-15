@@ -1,0 +1,16 @@
+{
+	"category" : "SMPP-Codec",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"commandId",
+		"commandStatus",
+		"sequenceNumber" ],
+	"name" : "SMPPPDUHeader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

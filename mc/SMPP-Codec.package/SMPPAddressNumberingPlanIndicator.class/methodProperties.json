@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"npiData" : "",
+		"npiERMES" : "",
+		"npiISDN" : "",
+		"npiInternet" : "",
+		"npiLandMobile" : "",
+		"npiNational" : "",
+		"npiPrivate" : "",
+		"npiTelex" : "",
+		"npiUnknown" : "",
+		"npiWap" : "",
+		"tlvDescription" : "" },
+	"instance" : {
+		 } }

@@ -1,0 +1,3 @@
+ESME or SMSC
+gsmBitMask
+	^2r11000000

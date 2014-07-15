@@ -1,0 +1,14 @@
+{
+	"category" : "SMPP-Codec",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SMPPShortMessage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

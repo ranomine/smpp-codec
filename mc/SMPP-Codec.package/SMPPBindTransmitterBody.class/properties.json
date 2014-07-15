@@ -1,0 +1,20 @@
+{
+	"category" : "SMPP-Codec",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"system_id",
+		"password",
+		"system_type",
+		"version",
+		"addr_ton",
+		"addr_npi",
+		"addr_range" ],
+	"name" : "SMPPBindTransmitterBody",
+	"pools" : [
+		 ],
+	"super" : "SMPPBodyBase",
+	"type" : "normal" }

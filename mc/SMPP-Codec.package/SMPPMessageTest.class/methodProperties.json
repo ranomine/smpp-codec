@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"exampleBind" : "",
+		"exampleBindResponse" : "",
+		"exampleEnquire" : "",
+		"exampleGenericNack" : "",
+		"examplePdu" : "",
+		"exampleSubmitSM" : "",
+		"exampleUnbind" : "",
+		"testBindResponse" : "",
+		"testBindTrx" : "",
+		"testEnquireLink" : "",
+		"testExampleUnbind" : "",
+		"testGenericNack" : "",
+		"testReadMessage" : "",
+		"testRoundTrip" : "",
+		"testSubmitSM" : "",
+		"testWriteMessage" : "" } }

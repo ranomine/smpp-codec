@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"tlvDescription" : "",
+		"typeCellularMessaging" : "",
+		"typeCellularPaging" : "",
+		"typeDefault" : "",
+		"typeUSSD" : "",
+		"typeVoiceMailAlerting" : "",
+		"typeVoiceMailNotification" : "",
+		"typeWirelessApplicationProtocol" : "" },
+	"instance" : {
+		 } }

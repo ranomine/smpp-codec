@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"messageType" : "",
+		"tlvDescription" : "" },
+	"instance" : {
+		"addressRange" : "",
+		"addressRange:" : "",
+		"numberingPlanIndicator" : "",
+		"numberingPlanIndicator:" : "",
+		"password" : "",
+		"password:" : "",
+		"systemId" : "",
+		"systemId:" : "",
+		"systemType" : "",
+		"systemType:" : "",
+		"typeOfNumber" : "",
+		"typeOfNumber:" : "",
+		"version" : "",
+		"version:" : "" } }

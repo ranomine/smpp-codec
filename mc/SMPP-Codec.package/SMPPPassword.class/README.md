@@ -1,0 +1,1 @@
+I represent 5.2.2 of SMPPv3.4

@@ -1,0 +1,15 @@
+{
+	"category" : "SMPP-Codec",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"system_id",
+		"sc_interface_version" ],
+	"name" : "SMPPBindTransceiverResponse",
+	"pools" : [
+		 ],
+	"super" : "SMPPBodyBase",
+	"type" : "normal" }

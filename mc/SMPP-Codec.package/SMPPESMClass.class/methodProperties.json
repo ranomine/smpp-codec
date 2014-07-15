@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"gsmBitMask" : "",
+		"gsmNoSpecific" : "",
+		"gsmReplyPath" : "",
+		"gsmUDHIIndicator" : "",
+		"gsmUHDIAndReplyPath" : "",
+		"modeBitMask" : "",
+		"modeDatagram" : "",
+		"modeDefault" : "",
+		"modeForward" : "",
+		"tlvDescription" : "",
+		"typeBitMask" : "",
+		"typeConversationAbort" : "",
+		"typeDefault" : "",
+		"typeESMEDeliveryAck" : "",
+		"typeESMEUserAck" : "",
+		"typeIntermediateDeliveryNotification" : "",
+		"typeSMSCDeliveryReceipt" : "" },
+	"instance" : {
+		 } }

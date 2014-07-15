@@ -1,0 +1,14 @@
+{
+	"category" : "SMPP-Codec",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SMPPBindTransceiver",
+	"pools" : [
+		 ],
+	"super" : "SMPPBindTransmitterBody",
+	"type" : "normal" }

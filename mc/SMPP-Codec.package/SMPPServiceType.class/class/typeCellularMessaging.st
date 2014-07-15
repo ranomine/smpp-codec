@@ -1,0 +1,3 @@
+interface
+typeCellularMessaging
+	^'CMT'
