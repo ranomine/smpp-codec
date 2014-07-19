@@ -1,7 +1,7 @@
 as yet unclassified
 connect
 	super connect.
-	nextSeq := 100.
+	nextSeq := 1.
 	writeQueue := SharedQueue new.
 	pendingCommands := Dictionary new.
 	self scheduleBindTrx
