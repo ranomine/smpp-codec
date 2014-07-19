@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"messageType" : "",
+		"tlvDescription" : "" },
+	"instance" : {
+		"destinationAddress" : "",
+		"shortMessage" : "",
+		"sourceAddress" : "" } }
