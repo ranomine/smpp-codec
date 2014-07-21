@@ -8,5 +8,4 @@ dispatchOne
 		do: 
 		    [:e | 
 		    e
-			inspect;
 			pass]
