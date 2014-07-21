@@ -1,3 +1,3 @@
 as yet unclassified
-sourceNumberingPlanIndicator: anInteger 
+sourceNumberingPlanIndicator: anInteger
 	source_addr_npi := anInteger

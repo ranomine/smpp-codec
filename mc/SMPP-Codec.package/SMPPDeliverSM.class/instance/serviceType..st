@@ -1,3 +1,3 @@
 as yet unclassified
-serviceType: anInteger 
+serviceType: anInteger
 	service_type := anInteger

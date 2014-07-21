@@ -1,3 +1,3 @@
 as yet unclassified
-destinationTypeOfNumber: anInteger 
+destinationTypeOfNumber: anInteger
 	dest_addr_ton := anInteger

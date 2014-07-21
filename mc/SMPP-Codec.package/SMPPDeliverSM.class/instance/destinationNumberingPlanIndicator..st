@@ -1,3 +1,3 @@
 as yet unclassified
-destinationNumberingPlanIndicator: anInteger 
+destinationNumberingPlanIndicator: anInteger
 	dest_addr_npi := anInteger

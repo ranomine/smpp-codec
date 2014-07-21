@@ -1,3 +1,3 @@
 as yet unclassified
-defaultMessageID: anInteger 
-	sm_default_msg_id := 0.
+defaultMessageID: anInteger
+	sm_default_msg_id := 0

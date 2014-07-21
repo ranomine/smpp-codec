@@ -1,3 +1,3 @@
 as yet unclassified
-protocolId: anInteger 
+protocolId: anInteger
 	protocol_id := anInteger

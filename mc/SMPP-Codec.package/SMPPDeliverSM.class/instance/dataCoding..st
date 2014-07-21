@@ -1,3 +1,3 @@
 as yet unclassified
-dataCoding: anInteger 
-	data_coding := 0.
+dataCoding: anInteger
+	data_coding := 0

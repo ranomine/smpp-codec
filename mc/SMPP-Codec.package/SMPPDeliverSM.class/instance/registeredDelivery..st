@@ -1,3 +1,3 @@
 as yet unclassified
-registeredDelivery: anInteger 
+registeredDelivery: anInteger
 	registered_delivery := anInteger

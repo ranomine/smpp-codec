@@ -1,3 +1,3 @@
 as yet unclassified
-priorityLevel: anInteger 
-	priority_flag := 0.
+priorityLevel: anInteger
+	priority_flag := 0

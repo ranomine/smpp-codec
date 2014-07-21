@@ -1,3 +1,3 @@
 as yet unclassified
-esmClass: anInteger 
+esmClass: anInteger
 	esm_class := anInteger
