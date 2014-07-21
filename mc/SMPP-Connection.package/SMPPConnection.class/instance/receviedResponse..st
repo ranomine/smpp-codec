@@ -9,5 +9,4 @@ receviedResponse: aMessage
 			["TODO: log it"
 
 			^false].
-	command inspect.
 	command result: aMessage
