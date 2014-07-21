@@ -9,7 +9,8 @@
 		"receviedResponse:" : "",
 		"respondToEnquire:" : "",
 		"scheduleBindTrx" : "",
-		"send:onResponse:" : "",
+		"scheduleCommand:" : "",
+		"send:" : "",
 		"sendOne" : "",
 		"systemId:" : "",
 		"systemType:" : "" } }

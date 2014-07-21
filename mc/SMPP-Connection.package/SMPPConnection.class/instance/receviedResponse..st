@@ -2,11 +2,12 @@ as yet unclassified
 receviedResponse: aMessage
 	"Search for a response"
 
-	| seq block |
+	| seq command |
 	seq := aMessage header sequenceNumber.
-	block := pendingCommands removeKey: seq
+	command := pendingCommands removeKey: seq
 		    ifAbsent: 
 			["TODO: log it"
 
 			^false].
-	block value: aMessage
+	command inspect.
+	command result: aMessage

@@ -1,10 +1,6 @@
 as yet unclassified
 scheduleBindTrx
-	| header body |
-	header := (SMPPPDUHeader new)
-		    commandId: SMPPBindTransceiver messageType;
-		    commandStatus: 0;
-		    yourself.
+	| command body |
 	body := (SMPPBindTransceiver new)
 		    systemId: systemId;
 		    password: password;
@@ -14,7 +10,5 @@ scheduleBindTrx
 		    typeOfNumber: 0;
 		    addressRange: #[];
 		    yourself.
-	self send: ((SMPPMessage new)
-		    header: header;
-		    body: body)
-	    onResponse: [:resp | ]
+	command := SMPPCommand initWith: body.
+	self scheduleCommand: command

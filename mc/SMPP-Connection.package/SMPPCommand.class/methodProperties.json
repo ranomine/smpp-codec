@@ -1,9 +1,14 @@
 {
 	"class" : {
-		"initWith:" : "HolgerHansPeterFreyther 7/21/2014 09:30" },
+		"initWith:" : "" },
 	"instance" : {
-		"body:" : "HolgerHansPeterFreyther 7/21/2014 09:30",
-		"onError:" : "HolgerHansPeterFreyther 7/21/2014 09:32",
-		"onResult:" : "HolgerHansPeterFreyther 7/21/2014 09:31",
-		"onTimeout:" : "HolgerHansPeterFreyther 7/21/2014 09:31",
-		"result:" : "HolgerHansPeterFreyther 7/21/2014 09:33" } }
+		"body" : "",
+		"body:" : "",
+		"error:" : "",
+		"messageType" : "",
+		"onError:" : "",
+		"onResult:" : "",
+		"onTimeout:" : "",
+		"result:" : "",
+		"scheduledOn:" : "",
+		"timeout" : "" } }
