@@ -1,0 +1,17 @@
+{
+	"category" : "SMPP-Connection",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"body",
+		"onTimeout",
+		"onResult",
+		"onError" ],
+	"name" : "SMPPCommand",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
