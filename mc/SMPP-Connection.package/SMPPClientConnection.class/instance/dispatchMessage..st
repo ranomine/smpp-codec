@@ -1,3 +1,6 @@
 as yet unclassified
 dispatchMessage: msg
-	super dispatchMessage: msg.
+	isAuthenticated
+		ifTrue: [^super dispatchMessage: msg].
+	
+	msg body connectionDispatchUnAuthenticatedOn: self with: msg

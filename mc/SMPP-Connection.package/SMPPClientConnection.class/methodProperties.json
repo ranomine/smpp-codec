@@ -2,9 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
+		"bindTransceiver:" : "HolgerHansPeterFreyther 7/28/2014 15:03",
 		"connect" : "HolgerHansPeterFreyther 7/28/2014 07:49",
 		"createConnection:port:" : "HolgerHansPeterFreyther 7/28/2014 07:50",
-		"dispatchMessage:" : "HolgerHansPeterFreyther 7/28/2014 14:16",
+		"dispatchMessage:" : "HolgerHansPeterFreyther 7/28/2014 14:38",
 		"onConnectionClosed:" : "HolgerHansPeterFreyther 7/28/2014 13:50",
 		"reconnect" : "HolgerHansPeterFreyther 7/28/2014 07:50",
 		"scheduleReconnect" : "HolgerHansPeterFreyther 7/28/2014 13:54",

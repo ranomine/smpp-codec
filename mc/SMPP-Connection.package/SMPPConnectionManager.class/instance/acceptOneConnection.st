@@ -6,7 +6,10 @@ acceptOneConnection
 	
 	OsmoDispatcher dispatchBlock:  [
 		| conn socketStream |
-		socketStream := SocketStream on: client.
+		socketStream := (SocketStream on: client)
+				binary;
+	    			noTimeout;
+				yourself.
 		conn := SMPPClientConnection new
 				socket: socketStream;
 				systemType: systemType;
