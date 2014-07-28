@@ -4,6 +4,7 @@
 	"instance" : {
 		"exampleBind" : "",
 		"exampleBindResponse" : "",
+		"exampleDeliverSMResponse" : "HolgerHansPeterFreyther 7/28/2014 15:49",
 		"exampleEnquire" : "",
 		"exampleGenericNack" : "",
 		"examplePdu" : "",
@@ -11,6 +12,7 @@
 		"exampleUnbind" : "",
 		"testBindResponse" : "",
 		"testBindTrx" : "",
+		"testDeliverSMResponse" : "HolgerHansPeterFreyther 7/28/2014 15:50",
 		"testEnquireLink" : "",
 		"testExampleUnbind" : "",
 		"testGenericNack" : "",
