@@ -9,4 +9,6 @@ receviedResponse: aMessage
 			["TODO: log it"
 
 			^false].
-	command result: aMessage
+	aMessage header commandStatus = 0
+		ifTrue: [command result: aMessage]
+		ifFalse: [command error: aMessage]
