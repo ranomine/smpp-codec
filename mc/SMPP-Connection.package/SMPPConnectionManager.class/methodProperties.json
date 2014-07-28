@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptConnections" : "HolgerHansPeterFreyther 7/28/2014 12:25",
+		"acceptOneConnection" : "HolgerHansPeterFreyther 7/28/2014 13:52",
+		"addClientConnection:" : "HolgerHansPeterFreyther 7/28/2014 12:18",
+		"initialize" : "HolgerHansPeterFreyther 7/28/2014 12:23",
+		"removeConnection:" : "HolgerHansPeterFreyther 7/28/2014 13:55",
+		"start:" : "HolgerHansPeterFreyther 7/28/2014 12:15",
+		"stop" : "HolgerHansPeterFreyther 7/28/2014 12:21" } }

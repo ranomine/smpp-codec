@@ -1,0 +1,1 @@
+This can handle exactly one connection and can be used with listening connections. It has the wrong abstraction though. So maybe the actual SMPP handling should be in a SMPPCommandManager and it is using sockets in a dumb way..

@@ -2,9 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"connect" : "",
+		"connect" : "HolgerHansPeterFreyther 7/28/2014 12:00",
 		"createConnection:port:" : "",
-		"dispatchOne" : "HolgerHansPeterFreyther 7/21/2014 12:51",
+		"dispatchMessage:" : "HolgerHansPeterFreyther 7/28/2014 14:13",
+		"dispatchOne" : "HolgerHansPeterFreyther 7/28/2014 14:13",
+		"initializeConnection" : "HolgerHansPeterFreyther 7/28/2014 12:00",
 		"password:" : "",
 		"receviedResponse:" : "HolgerHansPeterFreyther 7/21/2014 10:13",
 		"respondToEnquire:" : "",

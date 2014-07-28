@@ -1,0 +1,21 @@
+{
+	"category" : "SMPP-Connection",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "HolgerHansPeterFreyther 7/28/2014 12:04",
+	"instvars" : [
+		"socket",
+		"acceptLoop",
+		"quit",
+		"systemType",
+		"systemId",
+		"password",
+		"clientConnections",
+		"sem" ],
+	"name" : "SMPPConnectionManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

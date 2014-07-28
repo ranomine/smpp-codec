@@ -3,7 +3,7 @@ dispatchOne
 	| msg |
 	
 	[msg := SMPPMessage readFrom: socket.
-	msg body connectionDispatchOn: self with: msg] 
+	self dispatchMessage: msg] 
 		on: Error
 		do: 
 		    [:e | 
