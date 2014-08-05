@@ -33,9 +33,18 @@ tlvDescription
 	    add: (SMPPValueHolder for: #user_message_reference tag: 16r0204);
 	    add: (SMPPValueHolder for: #source_port tag: 16r020A);
 	    add: (SMPPValueHolder for: #destination_port tag: 16r020B);
-	    add: (SMPPValueHolder for: #sar_msg_ref_num tag: 16r020C);
-	    add: (SMPPValueHolder for: #sar_total_segments tag: 16r020E);
-	    add: (SMPPValueHolder for: #sar_segment_seqnum tag: 16r020F);
+	    add: (SMPPInteger tlvDescription
+			instVarName: #sar_msg_ref_num;
+			tag: 16r020C; valueSize: 1;
+			beOptional; yourself);
+	    add: (SMPPInteger tlvDescription
+			instVarName: #sar_total_segments;
+			tag: 16r020E; valueSize: 1;
+			beOptional; yourself);
+	    add: (SMPPInteger tlvDescription
+			instVarName: #sar_segment_seqnum;
+			tag: 16r020F; valueSize: 1;
+			beOptional; yourself);
 	    add: (SMPPValueHolder for: #user_response_code tag: 16r0205);
 	    add: (SMPPValueHolder for: #privacy_indicator tag: 16r0201);
 	    add: (SMPPValueHolder for: #payload_type tag: 16r0019);

@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"messageType" : "",
-		"tlvDescription" : "" },
+		"tlvDescription" : "HolgerHansPeterFreyther 8/5/2014 17:09" },
 	"instance" : {
 		"dataCoding:" : "HolgerHansPeterFreyther 7/28/2014 16:47",
 		"defaultMessageID:" : "",
@@ -16,6 +16,12 @@
 		"protocolId:" : "",
 		"registeredDelivery:" : "",
 		"registeredValidity:" : "",
+		"sarMessageReferenceNumber" : "HolgerHansPeterFreyther 8/5/2014 17:03",
+		"sarMessageReferenceNumber:" : "HolgerHansPeterFreyther 8/5/2014 16:56",
+		"sarSegmentNumber" : "HolgerHansPeterFreyther 8/5/2014 17:03",
+		"sarSegmentNumber:" : "HolgerHansPeterFreyther 8/5/2014 17:02",
+		"sarTotalSegments" : "HolgerHansPeterFreyther 8/5/2014 17:03",
+		"sarTotalSegments:" : "HolgerHansPeterFreyther 8/5/2014 17:02",
 		"scheduleDeliveryTime:" : "",
 		"serviceType:" : "",
 		"shortMessage" : "",
