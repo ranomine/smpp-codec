@@ -36,15 +36,15 @@ tlvDescription
 	    add: (SMPPInteger tlvDescription
 			instVarName: #sar_msg_ref_num;
 			tag: 16r020C; valueSize: 1;
-			beOptional; yourself);
+			beTLV; beOptional; yourself);
 	    add: (SMPPInteger tlvDescription
 			instVarName: #sar_total_segments;
 			tag: 16r020E; valueSize: 1;
-			beOptional; yourself);
+			beTLV; beOptional; yourself);
 	    add: (SMPPInteger tlvDescription
 			instVarName: #sar_segment_seqnum;
 			tag: 16r020F; valueSize: 1;
-			beOptional; yourself);
+			beTLV; beOptional; yourself);
 	    add: (SMPPValueHolder for: #user_response_code tag: 16r0205);
 	    add: (SMPPValueHolder for: #privacy_indicator tag: 16r0201);
 	    add: (SMPPValueHolder for: #payload_type tag: 16r0019);
