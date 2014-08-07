@@ -35,7 +35,7 @@ tlvDescription
 	    add: (SMPPValueHolder for: #destination_port tag: 16r020B);
 	    add: (SMPPInteger tlvDescription
 			instVarName: #sar_msg_ref_num;
-			tag: 16r020C; valueSize: 1;
+			tag: 16r020C; valueSize: 2;
 			beLen16; beTLV; beOptional; yourself);
 	    add: (SMPPInteger tlvDescription
 			instVarName: #sar_total_segments;
