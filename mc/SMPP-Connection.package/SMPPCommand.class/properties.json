@@ -4,14 +4,15 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "",
 	"instvars" : [
 		"body",
 		"onTimeout",
 		"onResult",
 		"onError",
 		"timeoutTimer",
-		"connection" ],
+		"connection",
+		"timeout" ],
 	"name" : "SMPPCommand",
 	"pools" : [
 		 ],
