@@ -15,6 +15,8 @@ acceptOneConnection
 				systemType: systemType;
 				systemId: systemId;
 				password: password;
+				onUnhandledCommandOrResponse: on_unhandled;
+				onUnhandledResponse: on_unhandled_response;
 				yourself.
 		conn onConnectionClosed: [self removeConnection: conn].
 		self addClientConnection: conn.

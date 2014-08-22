@@ -11,7 +11,9 @@
 		"systemId",
 		"password",
 		"systemType",
-		"pendingCommands" ],
+		"pendingCommands",
+		"on_unhandled_response",
+		"on_unhandled" ],
 	"name" : "SMPPConnection",
 	"pools" : [
 		 ],

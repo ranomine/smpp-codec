@@ -6,9 +6,8 @@ receviedResponse: aMessage
 	seq := aMessage header sequenceNumber.
 	command := pendingCommands removeKey: seq
 		    ifAbsent: 
-			["TODO: log it"
+			[^self unhandledResponse: aMessage].
 
-			^false].
 	aMessage header commandStatus = 0
 		ifTrue: [command result: aMessage]
 		ifFalse: [command error: aMessage]

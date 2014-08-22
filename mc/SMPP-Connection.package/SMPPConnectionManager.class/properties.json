@@ -13,7 +13,9 @@
 		"systemId",
 		"password",
 		"clientConnections",
-		"sem" ],
+		"sem",
+		"on_unhandled",
+		"on_unhandled_response" ],
 	"name" : "SMPPConnectionManager",
 	"pools" : [
 		 ],
