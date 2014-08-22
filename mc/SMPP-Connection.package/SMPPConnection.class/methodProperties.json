@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"anyAuthenticatedConnection" : "HolgerHansPeterFreyther 8/22/2014 20:25",
 		"connect" : "HolgerHansPeterFreyther 7/28/2014 12:00",
 		"createConnection:port:" : "",
 		"dispatchMessage:" : "HolgerHansPeterFreyther 7/28/2014 14:13",
