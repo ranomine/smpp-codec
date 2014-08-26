@@ -29,5 +29,8 @@
 		"unbind" : "",
 		"unbindResp" : "" },
 	"instance" : {
+		"isCommand" : "HolgerHansPeterFreyther 8/26/2014 20:44",
 		"readFrom:" : "",
+		"responseErrorBody" : "HolgerHansPeterFreyther 8/26/2014 20:48",
+		"responseForCommand" : "HolgerHansPeterFreyther 8/26/2014 20:45",
 		"writeOn:" : "" } }
