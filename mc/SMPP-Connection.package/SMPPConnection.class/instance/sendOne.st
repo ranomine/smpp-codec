@@ -4,4 +4,5 @@ sendOne
 
 	| msg |
 	msg := writeQueue next.
+	socket ifNil: [ ConnectionClosed signal ].
 	socket nextPutAllFlush: msg
