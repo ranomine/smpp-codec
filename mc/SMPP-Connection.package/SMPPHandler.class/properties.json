@@ -1,0 +1,21 @@
+{
+	"category" : "SMPP-Connection",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "HolgerHansPeterFreyther 8/29/2014 15:03",
+	"instvars" : [
+		"on_unhandled",
+		"on_unhandled_response",
+		"password",
+		"nextSeq",
+		"pendingCommands",
+		"connection",
+		"systemId",
+		"systemType" ],
+	"name" : "SMPPHandler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

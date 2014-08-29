@@ -7,7 +7,7 @@ dispatchOne
 		msg := SMPPMessage readFrom: socket.
 		msg ifNil: [
 			self scheduleReconnect].
-		self dispatchMessage: msg
+		handler dispatchMessage: msg
 	] on: Error do: [:e | 
 		 e pass
 	]

@@ -8,4 +8,4 @@ respondToEnquire: aMessage
 				sequenceNumber: aMessage header sequenceNumber;
 				yourself);
 		    body: #[].
-	writeQueue nextPut: msg toMessage asByteArray
+	connection sendDirect: msg toMessage asByteArray

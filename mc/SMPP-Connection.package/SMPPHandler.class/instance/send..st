@@ -1,6 +1,6 @@
 as yet unclassified
 send: aCommand
-	| seq key header message |
+	| seq  header message |
 	seq := nextSeq.
 	nextSeq := nextSeq + 1.
 	header := (SMPPPDUHeader new)
@@ -15,4 +15,4 @@ send: aCommand
 
 	"Remember that we want a response. TODO add timeout handling"
 	pendingCommands at: seq put: aCommand.
-	writeQueue nextPut: message toMessage asByteArray
+	connection sendDirect: message toMessage asByteArray

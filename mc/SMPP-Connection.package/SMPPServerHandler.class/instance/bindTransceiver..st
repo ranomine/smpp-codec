@@ -1,4 +1,4 @@
-requests
+as yet unclassified
 bindTransceiver: aMsg
 	| respMsg respBody |
 	aMsg body systemId = systemId
@@ -21,4 +21,4 @@ bindTransceiver: aMsg
 				sequenceNumber: aMsg header sequenceNumber;
 				yourself);
 		    body: respBody.
-	writeQueue nextPut: respMsg toMessage asByteArray
+	connection sendDirect: respMsg toMessage asByteArray

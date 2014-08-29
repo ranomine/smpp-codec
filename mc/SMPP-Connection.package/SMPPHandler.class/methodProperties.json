@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"connected" : "HolgerHansPeterFreyther 8/29/2014 15:32",
+		"connection:" : "HolgerHansPeterFreyther 8/29/2014 15:47",
+		"dispatchMessage:" : "HolgerHansPeterFreyther 8/29/2014 15:03",
+		"initialize" : "HolgerHansPeterFreyther 8/29/2014 15:06",
+		"onUnhandledCommandOrResponse:" : "HolgerHansPeterFreyther 8/29/2014 15:04",
+		"onUnhandledResponse:" : "HolgerHansPeterFreyther 8/29/2014 15:04",
+		"password:" : "HolgerHansPeterFreyther 8/29/2014 15:05",
+		"receviedResponse:" : "HolgerHansPeterFreyther 8/29/2014 15:06",
+		"respondToEnquire:" : "HolgerHansPeterFreyther 8/29/2014 15:07",
+		"scheduleCommand:" : "HolgerHansPeterFreyther 8/29/2014 15:08",
+		"send:" : "HolgerHansPeterFreyther 8/29/2014 15:10",
+		"systemId:" : "HolgerHansPeterFreyther 8/29/2014 15:10",
+		"systemType:" : "HolgerHansPeterFreyther 8/29/2014 15:10",
+		"unhandledResponse:" : "HolgerHansPeterFreyther 8/29/2014 15:11" } }

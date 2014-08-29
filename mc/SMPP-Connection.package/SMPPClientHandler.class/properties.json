@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"writeQueue",
-		"handler" ],
-	"name" : "SMPPConnection",
+		 ],
+	"name" : "SMPPClientHandler",
 	"pools" : [
 		 ],
-	"super" : "OsmoStreamSocketBase",
+	"super" : "SMPPHandler",
 	"type" : "normal" }

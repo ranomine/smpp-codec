@@ -1,3 +1,3 @@
 as yet unclassified
 isAuthenticated
-	^isAuthenticated
+	^handler isAuthenticated
