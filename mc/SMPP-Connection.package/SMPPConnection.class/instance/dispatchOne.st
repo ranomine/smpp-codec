@@ -2,10 +2,12 @@ as yet unclassified
 dispatchOne
 	| msg |
 	
-	[msg := SMPPMessage readFrom: socket.
-	self dispatchMessage: msg] 
-		on: Error
-		do: 
-		    [:e | 
-		    e
-			pass]
+	[
+		"Check if the socket is closed?!"
+		msg := SMPPMessage readFrom: socket.
+		msg ifNil: [
+			self scheduleReconnect].
+		self dispatchMessage: msg
+	] on: Error do: [:e | 
+		 e pass
+	]
