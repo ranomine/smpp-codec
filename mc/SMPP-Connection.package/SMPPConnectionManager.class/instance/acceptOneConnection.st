@@ -18,6 +18,7 @@ acceptOneConnection
 				onUnhandledCommandOrResponse: on_unhandled;
 				onUnhandledResponse: on_unhandled_response;
 				yourself.
+		handlerCreator ifNotNil: [conn handler: handlerCreator value].
 		conn onConnectionClosed: [self removeConnection: conn].
 		self addClientConnection: conn.
 		conn start.

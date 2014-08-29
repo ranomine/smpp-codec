@@ -15,7 +15,8 @@
 		"clientConnections",
 		"sem",
 		"on_unhandled",
-		"on_unhandled_response" ],
+		"on_unhandled_response",
+		"handlerCreator" ],
 	"name" : "SMPPConnectionManager",
 	"pools" : [
 		 ],
