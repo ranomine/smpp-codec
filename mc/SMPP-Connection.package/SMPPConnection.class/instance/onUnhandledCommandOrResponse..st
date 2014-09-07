@@ -1,3 +1,0 @@
-unhandled
-onUnhandledCommandOrResponse: aBlock
-	handler onUnhandledCommandOrResponse: aBlock

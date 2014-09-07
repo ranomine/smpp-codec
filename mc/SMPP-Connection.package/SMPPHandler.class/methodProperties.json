@@ -6,7 +6,7 @@
 		"connection:" : "HolgerHansPeterFreyther 8/29/2014 15:47",
 		"dispatchMessage:" : "HolgerHansPeterFreyther 8/29/2014 15:03",
 		"initialize" : "HolgerHansPeterFreyther 8/29/2014 15:06",
-		"onUnhandledCommandOrResponse:" : "HolgerHansPeterFreyther 8/29/2014 15:04",
+		"onUnhandledCommand:" : "HolgerHansPeterFreyther 9/7/2014 15:08",
 		"onUnhandledResponse:" : "HolgerHansPeterFreyther 8/29/2014 15:04",
 		"password:" : "HolgerHansPeterFreyther 8/29/2014 15:05",
 		"receviedResponse:" : "HolgerHansPeterFreyther 8/29/2014 15:06",
@@ -15,4 +15,5 @@
 		"send:" : "HolgerHansPeterFreyther 8/29/2014 15:10",
 		"systemId:" : "HolgerHansPeterFreyther 8/29/2014 15:10",
 		"systemType:" : "HolgerHansPeterFreyther 8/29/2014 15:10",
+		"unhandledCommand:" : "HolgerHansPeterFreyther 9/7/2014 15:12",
 		"unhandledResponse:" : "HolgerHansPeterFreyther 8/29/2014 15:11" } }

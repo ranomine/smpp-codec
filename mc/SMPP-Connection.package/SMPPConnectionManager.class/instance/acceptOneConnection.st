@@ -15,7 +15,7 @@ acceptOneConnection
 				systemType: systemType;
 				systemId: systemId;
 				password: password;
-				onUnhandledCommandOrResponse: on_unhandled;
+				onUnhandledCommand: on_unhandled_command;
 				onUnhandledResponse: on_unhandled_response;
 				yourself.
 		handlerCreator ifNotNil: [conn handler: handlerCreator value].

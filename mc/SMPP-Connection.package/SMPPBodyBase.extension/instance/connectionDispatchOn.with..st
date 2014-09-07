@@ -1,3 +1,5 @@
 *SMPP-Connection
 connectionDispatchOn: aConnection with: aMessage
-	aConnection unhandledCommandOrResponse: aMessage
+	aMessage isCommand
+		ifTrue: [aConnection unhandledCommand: aMessage]
+		ifFalse: [aConnection unhandledResponse: aMessage].

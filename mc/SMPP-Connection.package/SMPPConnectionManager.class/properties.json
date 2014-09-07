@@ -14,7 +14,7 @@
 		"password",
 		"clientConnections",
 		"sem",
-		"on_unhandled",
+		"on_unhandled_command",
 		"on_unhandled_response",
 		"handlerCreator" ],
 	"name" : "SMPPConnectionManager",

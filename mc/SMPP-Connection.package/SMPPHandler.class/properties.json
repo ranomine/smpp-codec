@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "HolgerHansPeterFreyther 8/29/2014 15:03",
 	"instvars" : [
-		"on_unhandled",
+		"on_unhandled_command",
 		"on_unhandled_response",
 		"password",
 		"nextSeq",
