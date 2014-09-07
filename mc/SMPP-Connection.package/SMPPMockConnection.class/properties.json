@@ -11,5 +11,5 @@
 	"name" : "SMPPMockConnection",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "SMPPConnection",
 	"type" : "normal" }
