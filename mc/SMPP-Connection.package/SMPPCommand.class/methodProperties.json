@@ -4,9 +4,11 @@
 	"instance" : {
 		"body" : "",
 		"body:" : "",
+		"cancel" : "HolgerHansPeterFreyther 9/7/2014 15:55",
 		"error:" : "",
 		"initialize" : "HolgerHansPeterFreyther 8/20/2014 15:09",
 		"messageType" : "",
+		"onCancel:" : "HolgerHansPeterFreyther 9/7/2014 15:31",
 		"onError:" : "",
 		"onResult:" : "",
 		"onTimeout:" : "",

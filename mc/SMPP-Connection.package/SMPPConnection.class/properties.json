@@ -7,7 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"writeQueue",
-		"handler" ],
+		"handler",
+		"onConnectionClosed" ],
 	"name" : "SMPPConnection",
 	"pools" : [
 		 ],

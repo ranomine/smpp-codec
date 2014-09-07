@@ -12,7 +12,8 @@
 		"onError",
 		"timeoutTimer",
 		"connection",
-		"timeout" ],
+		"timeout",
+		"onCancel" ],
 	"name" : "SMPPCommand",
 	"pools" : [
 		 ],

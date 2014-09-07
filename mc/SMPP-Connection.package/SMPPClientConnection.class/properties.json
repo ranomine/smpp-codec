@@ -6,7 +6,6 @@
 		 ],
 	"commentStamp" : "HolgerHansPeterFreyther 7/28/2014 07:47",
 	"instvars" : [
-		"onConnectionClosed",
 		"onAuthTimeout",
 		"isAuthenticated" ],
 	"name" : "SMPPClientConnection",
