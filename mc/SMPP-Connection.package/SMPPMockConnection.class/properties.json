@@ -1,0 +1,15 @@
+{
+	"category" : "SMPP-Connection-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"reachable",
+		"sent" ],
+	"name" : "SMPPMockConnection",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
