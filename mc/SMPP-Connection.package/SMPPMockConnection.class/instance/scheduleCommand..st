@@ -1,4 +1,7 @@
 as yet unclassified
 scheduleCommand: aCommand
-	aCommand scheduledOn: self.
-	aCommand result: nil.
+	scheduleToSuper
+		ifTrue: [^super scheduleCommand: aCommand]
+		ifFalse: [
+			aCommand scheduledOn: self.
+			omitResult ifFalse: [aCommand result: nil]]

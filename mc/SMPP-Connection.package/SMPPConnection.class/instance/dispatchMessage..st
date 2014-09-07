@@ -1,3 +1,3 @@
 as yet unclassified
 dispatchMessage: msg
-	msg body connectionDispatchOn: self with: msg
+	msg body connectionDispatchOn: handler with: msg
