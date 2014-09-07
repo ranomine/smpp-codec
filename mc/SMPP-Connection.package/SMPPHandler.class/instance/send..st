@@ -1,8 +1,7 @@
 as yet unclassified
 send: aCommand
 	| seq  header message |
-	seq := nextSeq.
-	nextSeq := nextSeq + 1.
+	seq := self nextSequenceNumber.
 	header := (SMPPPDUHeader new)
 		    sequenceNumber: seq;
 		    commandId: aCommand messageType;
