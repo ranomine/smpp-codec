@@ -1,7 +1,7 @@
 as yet unclassified
 unbind: aMessage
 	| respMsg |
-	isAuthenticated := false.
+	self setUnauthenticated.
 	respMsg := (SMPPMessage new)
 		    header: ((SMPPPDUHeader new)
 				commandId: SMPPBodyBase unbindResp;

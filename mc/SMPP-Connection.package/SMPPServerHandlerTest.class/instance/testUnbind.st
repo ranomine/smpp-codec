@@ -23,3 +23,4 @@ testUnbind
 	unbindResponse := SMPPMessage readFrom: connection sent first readStream.
 	self assert: unbindResponse header commandStatus equals: 0.
 	self assert: unbindResponse body class equals: SMPPUnbindResponse.
+	handler stopAuthenticationTimer.
