@@ -4,4 +4,4 @@ readFrom: aStream for: aHeader
 		[:each | 
 		aHeader commandId = each messageType ifTrue: [^each new readFrom: aStream]].
 	^self 
-	    error: 'No handler for command id = %1' % {aHeader commandId displayString}
+	    error: 'No handler for command id = ', aHeader commandId printString
