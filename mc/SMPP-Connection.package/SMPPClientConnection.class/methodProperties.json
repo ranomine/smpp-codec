@@ -4,7 +4,6 @@
 	"instance" : {
 		"connect" : "HolgerHansPeterFreyther 7/28/2014 07:49",
 		"createConnection:port:" : "HolgerHansPeterFreyther 7/28/2014 07:50",
-		"dispatchMessage:" : "HolgerHansPeterFreyther 7/28/2014 14:38",
 		"initialize" : "HolgerHansPeterFreyther 8/29/2014 15:35",
 		"isAuthenticated" : "HolgerHansPeterFreyther 8/29/2014 15:35",
 		"reconnect" : "HolgerHansPeterFreyther 7/28/2014 07:50",
