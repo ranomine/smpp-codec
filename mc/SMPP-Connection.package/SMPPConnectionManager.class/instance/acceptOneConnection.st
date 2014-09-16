@@ -10,7 +10,7 @@ acceptOneConnection
 				binary;
 	    			noTimeout;
 				yourself.
-		conn := SMPPClientConnection new
+		conn := SMPPIncomingConnection new
 				socket: socketStream;
 				systemType: systemType;
 				systemId: systemId;

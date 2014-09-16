@@ -8,7 +8,7 @@
 	"instvars" : [
 		"onAuthTimeout",
 		"isAuthenticated" ],
-	"name" : "SMPPClientConnection",
+	"name" : "SMPPIncomingConnection",
 	"pools" : [
 		 ],
 	"super" : "SMPPConnection",
