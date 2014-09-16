@@ -2,4 +2,4 @@
 connectionDispatchOn: aConnection with: aMessage
 	self isCommand
 		ifTrue: [aConnection unhandledCommand: aMessage]
-		ifFalse: [aConnection unhandledResponse: aMessage].
+		ifFalse: [aConnection receviedResponse: aMessage].
