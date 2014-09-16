@@ -4,5 +4,7 @@
 		"tlvDescription" : "" },
 	"instance" : {
 		"destinationAddress" : "",
+		"registeredDelivery" : "HolgerHansPeterFreyther 9/16/2014 16:50",
 		"shortMessage" : "",
-		"sourceAddress" : "" } }
+		"sourceAddress" : "",
+		"userMessageReference" : "HolgerHansPeterFreyther 9/16/2014 16:51" } }

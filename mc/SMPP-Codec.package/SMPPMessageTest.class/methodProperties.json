@@ -10,6 +10,7 @@
 		"exampleGenericNack" : "",
 		"examplePdu" : "",
 		"exampleSubmitSM" : "",
+		"exampleSubmitSMDeliveryReportMessageReference" : "HolgerHansPeterFreyther 9/16/2014 16:39",
 		"exampleUnbind" : "",
 		"testBindResponse" : "",
 		"testBindTrx" : "",
@@ -21,4 +22,5 @@
 		"testReadMessage" : "",
 		"testRoundTrip" : "",
 		"testSubmitSM" : "",
+		"testSubmitSMMessageReference" : "HolgerHansPeterFreyther 9/16/2014 16:50",
 		"testWriteMessage" : "" } }
