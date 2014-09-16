@@ -13,7 +13,11 @@
 		"pendingCommands",
 		"connection",
 		"systemId",
-		"systemType" ],
+		"systemType",
+		"enquireLinkTimeout",
+		"inactivityTimeout",
+		"responseTimeout",
+		"enquireLinkTimer" ],
 	"name" : "SMPPHandler",
 	"pools" : [
 		 ],

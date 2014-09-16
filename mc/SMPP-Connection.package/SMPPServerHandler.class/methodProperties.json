@@ -2,12 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"bindTransceiver:" : "HolgerHansPeterFreyther 8/29/2014 15:34",
+		"bindTransceiver:" : "HolgerHansPeterFreyther 9/16/2014 18:15",
 		"connected" : "HolgerHansPeterFreyther 9/8/2014 20:32",
 		"dispatchMessage:" : "HolgerHansPeterFreyther 8/29/2014 15:33",
-		"initialize" : "HolgerHansPeterFreyther 8/29/2014 15:34",
+		"initialize" : "HolgerHansPeterFreyther 9/16/2014 18:19",
 		"isAuthenticated" : "HolgerHansPeterFreyther 9/8/2014 19:39",
 		"setAuthenticated" : "HolgerHansPeterFreyther 9/8/2014 19:29",
-		"setUnauthenticated" : "HolgerHansPeterFreyther 9/8/2014 20:32",
+		"setUnauthenticated" : "HolgerHansPeterFreyther 9/16/2014 18:18",
 		"stopAuthenticationTimer" : "HolgerHansPeterFreyther 9/8/2014 20:33",
 		"unbind:" : "HolgerHansPeterFreyther 9/8/2014 20:32" } }

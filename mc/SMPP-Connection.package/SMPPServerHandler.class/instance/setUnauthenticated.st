@@ -1,4 +1,4 @@
 as yet unclassified
 setUnauthenticated
 	isAuthenticated := false.
-	onAuthTimeout := TimerScheduler instance scheduleInSeconds: 5 block: [connection stop].
+	onAuthTimeout := TimerScheduler instance scheduleInSeconds: sessionInitTimeout block: [connection stop].

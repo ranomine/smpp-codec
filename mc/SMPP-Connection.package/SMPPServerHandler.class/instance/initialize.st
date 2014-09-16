@@ -1,4 +1,5 @@
 as yet unclassified
 initialize
 	super initialize.
-	isAuthenticated := false
+	isAuthenticated := false.
+	sessionInitTimeout := 5.

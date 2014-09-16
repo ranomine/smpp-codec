@@ -21,4 +21,5 @@ bindTransceiver: aMsg
 				sequenceNumber: aMsg header sequenceNumber;
 				yourself);
 		    body: respBody.
-	connection sendDirect: respMsg toMessage asByteArray
+	connection sendDirect: respMsg toMessage asByteArray.
+	self startEnquireLink.
