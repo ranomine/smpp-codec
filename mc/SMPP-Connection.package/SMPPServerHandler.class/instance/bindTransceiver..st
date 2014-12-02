@@ -8,6 +8,8 @@ bindTransceiver: aMsg
 
 	"We trust this system now"
 	isAuthenticated := true.
+	boundReceiver := true.
+	boundSender := true.
 	onAuthTimeout ifNotNil: [onAuthTimeout cancel. onAuthTimeout := nil].
 
 	"Respond now"

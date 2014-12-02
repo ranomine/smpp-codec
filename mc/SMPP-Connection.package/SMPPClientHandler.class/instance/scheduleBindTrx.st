@@ -12,7 +12,10 @@ scheduleBindTrx
 		    yourself.
 	command := SMPPCommand initWith: body.
 	command
-		onResult: [:res | self startEnquireLink];
+		onResult: [:res |
+			boundReceiver := true.
+			boundSender := true.
+			self startEnquireLink];
 		onError: [:err | self linkFailed];
 		onTimeout: [ self linkFailed].
 	self scheduleCommand: command

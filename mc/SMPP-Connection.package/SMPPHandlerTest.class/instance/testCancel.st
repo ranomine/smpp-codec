@@ -1,10 +1,6 @@
 as yet unclassified
 testCancel
-	| handler connection command canceled |
-	"Set-up"
-	connection := SMPPMockConnection new.
-	handler := SMPPHandler new.
-	handler connection: connection.
+	| command canceled |
 
 	"Schedule a command"
 	canceled := false.
