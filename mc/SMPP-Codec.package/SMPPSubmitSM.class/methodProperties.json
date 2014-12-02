@@ -6,6 +6,8 @@
 		"dataCoding:" : "HolgerHansPeterFreyther 11/17/2014 13:08",
 		"destinationAddress" : "",
 		"destinationAddressAsE164" : "HolgerHansPeterFreyther 12/2/2014 15:25",
+		"destinationNumberingPlanIndicator" : "HolgerHansPeterFreyther 12/2/2014 16:28",
+		"destinationTypeOfNumber" : "HolgerHansPeterFreyther 12/2/2014 16:27",
 		"esmClass" : "HolgerHansPeterFreyther 11/17/2014 13:08",
 		"esmClass:" : "HolgerHansPeterFreyther 11/17/2014 13:07",
 		"registeredDelivery" : "HolgerHansPeterFreyther 9/16/2014 16:50",
@@ -14,4 +16,6 @@
 		"shortMessage:" : "HolgerHansPeterFreyther 11/17/2014 13:08",
 		"sourceAddress" : "",
 		"sourceAddressAsE164" : "HolgerHansPeterFreyther 12/2/2014 15:25",
+		"sourceNumberingPlanIndicator" : "HolgerHansPeterFreyther 12/2/2014 16:28",
+		"sourceTypeOfNumber" : "HolgerHansPeterFreyther 12/2/2014 16:28",
 		"userMessageReference" : "HolgerHansPeterFreyther 9/16/2014 16:51" } }
