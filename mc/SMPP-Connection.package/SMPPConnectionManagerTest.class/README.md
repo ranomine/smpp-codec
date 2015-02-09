@@ -1,0 +1,1 @@
+A SMPPConnectionManagerTest is a test class for testing the behavior of SMPPConnectionManager
