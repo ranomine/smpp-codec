@@ -8,6 +8,7 @@
 		"anyAuthenticatedConnection" : "HolgerHansPeterFreyther 7/28/2014 17:56",
 		"handlerCreator:" : "HolgerHansPeterFreyther 8/29/2014 16:08",
 		"initialize" : "HolgerHansPeterFreyther 7/28/2014 12:23",
+		"onUnhandledCommand" : "HolgerHansPeterFreyther 2/23/2015 17:06",
 		"onUnhandledCommand:" : "HolgerHansPeterFreyther 9/7/2014 15:10",
 		"onUnhandledResponse:" : "HolgerHansPeterFreyther 8/22/2014 19:53",
 		"password:" : "HolgerHansPeterFreyther 7/28/2014 14:54",
@@ -16,4 +17,5 @@
 		"stop" : "HolgerHansPeterFreyther 7/28/2014 12:21",
 		"systemId" : "HolgerHansPeterFreyther 2/9/2015 20:40",
 		"systemId:" : "HolgerHansPeterFreyther 7/28/2014 14:55",
-		"systemType:" : "HolgerHansPeterFreyther 7/28/2014 14:55" } }
+		"systemType:" : "HolgerHansPeterFreyther 7/28/2014 14:55",
+		"unhandledResponse" : "HolgerHansPeterFreyther 2/23/2015 17:06" } }
