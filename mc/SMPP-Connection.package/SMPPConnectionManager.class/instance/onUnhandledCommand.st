@@ -1,3 +1,0 @@
-as yet unclassified
-onUnhandledCommand
-	^on_unhandled_command

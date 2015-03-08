@@ -1,5 +1,6 @@
 as yet unclassified
 scheduleCommand: aCommand
+	scheduledCommands add: aCommand.
 	scheduleToSuper
 		ifTrue: [^super scheduleCommand: aCommand]
 		ifFalse: [

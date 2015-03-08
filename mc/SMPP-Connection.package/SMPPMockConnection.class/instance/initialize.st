@@ -5,3 +5,4 @@ initialize
 	omitResult := false.
 	scheduleToSuper := false.
 	sent := OrderedCollection new.
+	scheduledCommands := OrderedCollection new.

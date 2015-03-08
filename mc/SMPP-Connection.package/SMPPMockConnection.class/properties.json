@@ -9,7 +9,8 @@
 		"reachable",
 		"sent",
 		"omitResult",
-		"scheduleToSuper" ],
+		"scheduleToSuper",
+		"scheduledCommands" ],
 	"name" : "SMPPMockConnection",
 	"pools" : [
 		 ],
