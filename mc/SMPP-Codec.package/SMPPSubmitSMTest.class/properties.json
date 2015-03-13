@@ -1,0 +1,14 @@
+{
+	"category" : "SMPP-Codec-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SMPPSubmitSMTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
