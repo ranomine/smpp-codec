@@ -22,5 +22,5 @@ deliveryReceiptString: aDate
 			nextPutAll: 'done date:'; nextPutAll: dateString; nextPutAll: ' ';
 			nextPutAll: 'stat:DELIVRD ';
 			nextPutAll: 'err:000 ';
-			nextPutAll: 'Text:'; nextPutAll: (short_message copyUpTo: 20)
+			nextPutAll: 'Text:'; nextPutAll: (short_message truncateTo: 20)
 	  ]
