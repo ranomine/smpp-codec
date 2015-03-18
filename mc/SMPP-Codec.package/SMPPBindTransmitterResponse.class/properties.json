@@ -4,11 +4,12 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "SMPPBindTransceiverResponse",
+		"system_id",
+		"sc_interface_version" ],
+	"name" : "SMPPBindTransmitterResponse",
 	"pools" : [
 		 ],
-	"super" : "SMPPBindTransmitterResponse",
+	"super" : "SMPPBodyBase",
 	"type" : "normal" }
