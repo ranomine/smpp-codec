@@ -16,11 +16,11 @@ deliveryReceiptString: aDate
 	^String streamContents: [:stream |
 		stream
 			nextPutAll: 'id:0 ';
-			nextPutAll: 'sub: 001 ';
-			nextPutAll: 'dlvrd: 001 ';
-			nextPutAll: 'submit date: '; nextPutAll: dateString; nextPutAll: ' ';
-			nextPutAll: 'done date: '; nextPutAll: dateString; nextPutAll: ' ';
+			nextPutAll: 'sub:001 ';
+			nextPutAll: 'dlvrd:001 ';
+			nextPutAll: 'submit date:'; nextPutAll: dateString; nextPutAll: ' ';
+			nextPutAll: 'done date:'; nextPutAll: dateString; nextPutAll: ' ';
 			nextPutAll: 'stat:DELIVRD ';
-			nextPutAll: 'err:0 ';
-			nextPutAll: 'Text:'; nextPutAll: (short_message copyUpTo: 20)
+			nextPutAll: 'err:000 ';
+			nextPutAll: 'Text:'; nextPutAll: (short_message truncateTo: 20)
 	  ]
