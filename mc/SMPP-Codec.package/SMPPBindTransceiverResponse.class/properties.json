@@ -6,9 +6,10 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		 ],
+		"system_id",
+		"sc_interface_version" ],
 	"name" : "SMPPBindTransceiverResponse",
 	"pools" : [
 		 ],
-	"super" : "SMPPBindTransmitterResponse",
+	"super" : "SMPPBodyBase",
 	"type" : "normal" }

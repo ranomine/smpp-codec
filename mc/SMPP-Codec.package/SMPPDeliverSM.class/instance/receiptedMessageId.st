@@ -1,3 +1,0 @@
-as yet unclassified
-receiptedMessageId
-	^receipted_message_id
