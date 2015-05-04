@@ -16,7 +16,10 @@
 		"sem",
 		"on_unhandled_command",
 		"on_unhandled_response",
-		"handlerCreator" ],
+		"handlerCreator",
+		"allowedRemoteAddress",
+		"allowedRemotePort",
+		"logger" ],
 	"name" : "SMPPConnectionManager",
 	"pools" : [
 		 ],

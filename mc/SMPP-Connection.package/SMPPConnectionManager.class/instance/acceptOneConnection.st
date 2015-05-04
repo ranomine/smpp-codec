@@ -5,21 +5,10 @@ acceptOneConnection
 	client ifNil: [^self].
 	
 	OsmoDispatcher dispatchBlock:  [
-		| conn socketStream |
-		socketStream := (SocketStream on: client)
-				binary;
-	    			noTimeout;
-				yourself.
-		conn := SMPPIncomingConnection new
-				socket: socketStream;
-				systemType: systemType;
-				systemId: systemId;
-				password: password;
-				onUnhandledCommand: on_unhandled_command;
-				onUnhandledResponse: on_unhandled_response;
-				yourself.
-		handlerCreator ifNotNil: [conn handler: handlerCreator value].
-		self addClientConnection: conn.
-		conn onConnectionClosed: [self removeConnection: conn].
-		conn start.
-	].
+		(self isPeerAllowed: client)
+			ifFalse: [
+				logger logError: 'Peer not allowed' with: { 'address' -> client remoteAddress. 'port' -> client remotePort }.
+				client closeAndDestroy]
+			ifTrue: [
+				self handleConnection: client]
+	]

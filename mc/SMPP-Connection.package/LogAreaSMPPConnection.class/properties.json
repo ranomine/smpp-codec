@@ -1,0 +1,14 @@
+{
+	"category" : "SMPP-Connection-Logging",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LogAreaSMPPConnection",
+	"pools" : [
+		 ],
+	"super" : "LogArea",
+	"type" : "normal" }
