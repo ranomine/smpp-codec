@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfSMPP",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfSMPP",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
