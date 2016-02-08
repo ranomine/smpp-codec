@@ -12,8 +12,9 @@
 		"validate" : "NorbertHartl 5/13/2015 10:32" },
 	"instance" : {
 		"baseline01:" : "NorbertHartl 5/13/2015 10:40",
+		"baseline02:" : "HolgerHansPeterFreyther 2/8/2016 13:26",
 		"customProjectAttributes" : "NorbertHartl 5/13/2015 10:32",
-		"development:" : "NorbertHartl 5/13/2015 10:32",
+		"development:" : "HolgerHansPeterFreyther 2/8/2016 13:26",
 		"project" : "NorbertHartl 5/13/2015 10:32",
 		"stable:" : "HolgerHansPeterFreyther 2/8/2016 13:23",
 		"version1:" : "HolgerHansPeterFreyther 2/8/2016 13:23" } }
