@@ -8,7 +8,8 @@
 	"instvars" : [
 		"writeQueue",
 		"handler",
-		"onConnectionClosed" ],
+		"onConnectionClosed",
+		"connectionName" ],
 	"name" : "SMPPConnection",
 	"pools" : [
 		 ],

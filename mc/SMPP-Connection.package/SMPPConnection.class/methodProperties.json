@@ -1,9 +1,10 @@
 {
 	"class" : {
-		 },
+		"materializeFrom:" : "HolgerHansPeterFreyther 2/10/2016 15:10" },
 	"instance" : {
 		"anyAuthenticatedConnection" : "HolgerHansPeterFreyther 8/22/2014 20:25",
 		"connect" : "HolgerHansPeterFreyther 8/29/2014 15:08",
+		"connectionName:" : "HolgerHansPeterFreyther 2/10/2016 14:48",
 		"createConnection:port:" : "HolgerHansPeterFreyther 8/29/2014 14:28",
 		"dispatchOne" : "HolgerHansPeterFreyther 8/29/2014 15:03",
 		"formatForLogging" : "HolgerHansPeterFreyther 4/7/2015 23:38",
@@ -21,4 +22,5 @@
 		"sendOne" : "HolgerHansPeterFreyther 8/27/2014 07:00",
 		"systemId" : "HolgerHansPeterFreyther 9/7/2014 18:00",
 		"systemId:" : "HolgerHansPeterFreyther 8/29/2014 15:10",
-		"systemType:" : "HolgerHansPeterFreyther 8/29/2014 15:11" } }
+		"systemType:" : "HolgerHansPeterFreyther 8/29/2014 15:11",
+		"toExternalDictionary" : "HolgerHansPeterFreyther 2/10/2016 14:49" } }

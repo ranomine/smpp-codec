@@ -19,7 +19,8 @@
 		"handlerCreator",
 		"allowedRemoteAddress",
 		"allowedRemotePort",
-		"logger" ],
+		"logger",
+		"connectionName" ],
 	"name" : "SMPPConnectionManager",
 	"pools" : [
 		 ],

@@ -1,6 +1,6 @@
 {
 	"class" : {
-		 },
+		"materializeFrom:" : "HolgerHansPeterFreyther 2/10/2016 15:05" },
 	"instance" : {
 		"acceptConnections" : "HolgerHansPeterFreyther 7/30/2014 13:27",
 		"acceptOneConnection" : "HolgerHansPeterFreyther 5/4/2015 21:40",
@@ -8,6 +8,7 @@
 		"allowedRemoteAddress:" : "HolgerHansPeterFreyther 5/4/2015 13:48",
 		"allowedRemotePort:" : "HolgerHansPeterFreyther 5/4/2015 13:49",
 		"anyAuthenticatedConnection" : "HolgerHansPeterFreyther 7/28/2014 17:56",
+		"connectionName:" : "HolgerHansPeterFreyther 2/10/2016 14:51",
 		"handleConnection:" : "HolgerHansPeterFreyther 5/4/2015 18:00",
 		"handlerCreator:" : "HolgerHansPeterFreyther 8/29/2014 16:08",
 		"initialize" : "HolgerHansPeterFreyther 5/4/2015 17:54",
@@ -22,4 +23,5 @@
 		"systemId" : "HolgerHansPeterFreyther 2/9/2015 20:40",
 		"systemId:" : "HolgerHansPeterFreyther 7/28/2014 14:55",
 		"systemType:" : "HolgerHansPeterFreyther 7/28/2014 14:55",
+		"toExternalDictionary" : "HolgerHansPeterFreyther 2/10/2016 14:58",
 		"unhandledResponse" : "HolgerHansPeterFreyther 2/23/2015 17:06" } }
