@@ -11,4 +11,5 @@ materializeFrom: aDictionary
 		allowedRemoteAddress: ((aDictionary at: 'allowedRemoteAddress')
 										ifNotNil: [:type | type asByteArray]);
 		allowedRemotePort: (aDictionary at: 'allowedRemotePort');
+		port: (aDictionary at: 'port');
 		yourself

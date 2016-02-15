@@ -7,4 +7,5 @@ toExternalDictionary
 		'systemType' -> systemType.
 		'allowedRemoteAddress' -> allowedRemoteAddress.
 		'allowedRemotePort' -> allowedRemotePort. 
-		'password' -> password } asDictionary
+		'password' -> password.
+		'port' -> port } asDictionary

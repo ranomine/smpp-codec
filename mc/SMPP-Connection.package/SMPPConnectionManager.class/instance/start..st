@@ -1,8 +1,9 @@
 as yet unclassified
 start: aPort
 	quit := false.
+	port := aPort.
 	socket := Socket newTCP.
-	socket listenOn: aPort backlogSize: 4.
+	socket listenOn: port backlogSize: 4.
 
 	"Defaults for Pharo otherwise things don't work."
 	socket 
