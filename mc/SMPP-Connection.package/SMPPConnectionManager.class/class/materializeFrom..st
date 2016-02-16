@@ -8,8 +8,7 @@ materializeFrom: aDictionary
 		systemType: (aDictionary at: 'systemType');
 		systemId: (aDictionary at: 'systemId');
 		password: (aDictionary at: 'password');
-		allowedRemoteAddress: ((aDictionary at: 'allowedRemoteAddress')
-										ifNotNil: [:type | type asByteArray]);
+		allowedRemoteAddress: (aDictionary at: 'allowedRemoteAddress');
 		allowedRemotePort: (aDictionary at: 'allowedRemotePort');
 		port: (aDictionary at: 'port');
 		yourself

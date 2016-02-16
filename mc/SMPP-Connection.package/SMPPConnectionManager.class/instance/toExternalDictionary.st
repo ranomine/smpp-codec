@@ -5,7 +5,7 @@ toExternalDictionary
 		'connectionType' -> 'server'.
 		'systemId' -> systemId.
 		'systemType' -> systemType.
-		'allowedRemoteAddress' -> allowedRemoteAddress.
+		'allowedRemoteAddress' -> (allowedRemoteAddress ifNotNil: ['.' join: allowedRemoteAddress]).
 		'allowedRemotePort' -> allowedRemotePort. 
 		'password' -> password.
 		'port' -> port } asDictionary
