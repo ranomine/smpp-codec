@@ -1,0 +1,14 @@
+{
+	"category" : "SMPP-Connection",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"messageType" ],
+	"name" : "SMPPBinaryCommand",
+	"pools" : [
+		 ],
+	"super" : "SMPPCommand",
+	"type" : "normal" }
