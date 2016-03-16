@@ -7,4 +7,5 @@ toExternalDictionary
 		'port' -> port.
 		'systemId' -> handler systemId.
 		'systemType' -> handler systemType.
-		'password' -> handler password } asDictionary
+		'password' -> handler password.
+		'role' -> handler role} asDictionary

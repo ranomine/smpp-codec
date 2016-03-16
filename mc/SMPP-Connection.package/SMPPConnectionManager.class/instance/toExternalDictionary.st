@@ -8,4 +8,5 @@ toExternalDictionary
 		'allowedRemoteAddress' -> (allowedRemoteAddress ifNotNil: ['.' join: allowedRemoteAddress]).
 		'allowedRemotePort' -> allowedRemotePort. 
 		'password' -> password.
-		'port' -> port } asDictionary
+		'port' -> port.
+		'role' -> role } asDictionary

@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"materializeFrom:" : "HolgerHansPeterFreyther 2/16/2016 18:50" },
+		"materializeFrom:" : "HolgerHansPeterFreyther 3/16/2016 16:59" },
 	"instance" : {
 		"acceptConnections" : "HolgerHansPeterFreyther 7/30/2014 13:27",
 		"acceptOneConnection" : "HolgerHansPeterFreyther 5/4/2015 21:40",
@@ -10,7 +10,7 @@
 		"anyAuthenticatedConnection" : "HolgerHansPeterFreyther 7/28/2014 17:56",
 		"connectionName" : "HolgerHansPeterFreyther 2/11/2016 18:03",
 		"connectionName:" : "HolgerHansPeterFreyther 2/10/2016 14:51",
-		"handleConnection:" : "HolgerHansPeterFreyther 5/4/2015 18:00",
+		"handleConnection:" : "HolgerHansPeterFreyther 3/16/2016 17:06",
 		"handlerCreator:" : "HolgerHansPeterFreyther 8/29/2014 16:08",
 		"initialize" : "HolgerHansPeterFreyther 5/4/2015 17:54",
 		"isPeerAllowed:" : "HolgerHansPeterFreyther 5/4/2015 21:40",
@@ -20,11 +20,13 @@
 		"password:" : "HolgerHansPeterFreyther 7/28/2014 14:54",
 		"port:" : "HolgerHansPeterFreyther 2/15/2016 15:38",
 		"removeConnection:" : "HolgerHansPeterFreyther 11/25/2014 18:37",
+		"role" : "HolgerHansPeterFreyther 3/16/2016 17:08",
+		"role:" : "HolgerHansPeterFreyther 3/16/2016 17:02",
 		"start" : "HolgerHansPeterFreyther 2/15/2016 15:37",
 		"start:" : "HolgerHansPeterFreyther 2/15/2016 15:36",
 		"stop" : "HolgerHansPeterFreyther 7/28/2014 12:21",
 		"systemId" : "HolgerHansPeterFreyther 2/9/2015 20:40",
 		"systemId:" : "HolgerHansPeterFreyther 7/28/2014 14:55",
 		"systemType:" : "HolgerHansPeterFreyther 7/28/2014 14:55",
-		"toExternalDictionary" : "HolgerHansPeterFreyther 2/16/2016 18:51",
+		"toExternalDictionary" : "HolgerHansPeterFreyther 3/16/2016 17:00",
 		"unhandledResponse" : "HolgerHansPeterFreyther 2/23/2015 17:06" } }

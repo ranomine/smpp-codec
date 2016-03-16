@@ -21,7 +21,8 @@
 		"allowedRemotePort",
 		"logger",
 		"connectionName",
-		"port" ],
+		"port",
+		"role" ],
 	"name" : "SMPPConnectionManager",
 	"pools" : [
 		 ],

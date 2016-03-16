@@ -10,4 +10,5 @@ materializeFrom: aDictionary
 		password: (aDictionary at: 'password');
 		hostname: (aDictionary at: 'hostname');
 		port: (aDictionary at: 'port');
+		role: (aDictionary at: 'role' ifAbsent: [nil]);
 		yourself

@@ -19,7 +19,8 @@
 		"responseTimeout",
 		"enquireLinkTimer",
 		"boundReceiver",
-		"boundSender" ],
+		"boundSender",
+		"role" ],
 	"name" : "SMPPHandler",
 	"pools" : [
 		 ],

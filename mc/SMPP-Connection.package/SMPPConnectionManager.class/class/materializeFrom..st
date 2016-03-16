@@ -11,4 +11,5 @@ materializeFrom: aDictionary
 		allowedRemoteAddress: (aDictionary at: 'allowedRemoteAddress');
 		allowedRemotePort: (aDictionary at: 'allowedRemotePort');
 		port: (aDictionary at: 'port');
+		role: (aDictionary at: 'role' ifAbsent: [nil]);
 		yourself
