@@ -1,6 +1,6 @@
 baselines
-baseline09: spec
-	<version: '0.9-baseline'>
+baseline010: spec
+	<version: '0.10-baseline'>
 
 	spec for: #'common' do: [
 		spec blessing: #'baseline'.
@@ -9,22 +9,22 @@ baseline09: spec
 			project: 'OsmoGSM' with: [
 				spec
 					className: #ConfigurationOfOsmoGSM;
-					versionString: #'stable';
+					versionString: #'bleedingEdge';
 					repository: 'http://smalltalkhub.com/mc/osmocom/GSM/main/' ];
 			project: 'OsmoLogging' with: [
 				spec
 					className: #ConfigurationOfOsmoLogging;
-					versionString: #'stable';
+					versionString: #'bleedingEdge';
 					repository: 'http://smalltalkhub.com/mc/osmocom/Logging/main/' ];
 			project: 'OsmoNetwork' with: [
 				spec
 					className: #ConfigurationOfOsmoNetwork;
-					versionString: #'stable';
+					versionString: #'bleedingEdge';
 					repository: 'http://smalltalkhub.com/mc/osmocom/Network/main/' ];
 			project: 'OsmoCore' with: [
 				spec
 					className: #ConfigurationOfOsmoCore;
-					versionString: #'stable';
+					versionString: #'bleedingEdge';
 					repository: 'http://smalltalkhub.com/mc/osmocom/Core/main/' ].
 		spec 
 			package: #'SMPP-Codec' with: [
