@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSMPP",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSMPP",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
