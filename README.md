@@ -1,6 +1,8 @@
 SMPP Codec and Connection Library
 =================================
 
+[![Build Status](https://travis-ci.org/moiji-mobile/smpp-codec.svg?branch=master)](https://travis-ci.org/moiji-mobile/smpp-codec)
+
 Simple SMPPv3.4 codec and connection library for Smalltalk/Pharo
 built by [moiji-mobile](http://www.moiji-mobile.com) and used by
 the [SMPP Router](http://www.moiji-mobile.com/producs/smpp-router),
