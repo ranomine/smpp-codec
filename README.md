@@ -17,4 +17,5 @@ deal with success, failure or timeout.
 
 In an ad-hoc micro benchmark on an average 2015 13" Macbook Air
 morethan 8.000 DeliverSM messages can be decoded and then re-encoded
-in a second. Pure decoding speed is with more than 17.000 a second.
+in a second. Pure decoding speed is with more than 17.000 DeliverSM
+messages a second.
