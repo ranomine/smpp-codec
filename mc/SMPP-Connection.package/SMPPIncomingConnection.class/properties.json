@@ -1,15 +1,14 @@
 {
-	"category" : "SMPP-Connection",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "HolgerHansPeterFreyther 7/28/2014 07:47",
+	"super" : "SMPPConnection",
+	"category" : "SMPP-Connection",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"onAuthTimeout",
-		"isAuthenticated" ],
+		"isAuthenticated"
+	],
 	"name" : "SMPPIncomingConnection",
-	"pools" : [
-		 ],
-	"super" : "SMPPConnection",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,10 +1,10 @@
 {
-	"category" : "SMPP-Connection",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SMPP-Connection",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"body",
 		"onTimeout",
@@ -13,9 +13,8 @@
 		"timeoutTimer",
 		"connection",
 		"timeout",
-		"onCancel" ],
+		"onCancel"
+	],
 	"name" : "SMPPCommand",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

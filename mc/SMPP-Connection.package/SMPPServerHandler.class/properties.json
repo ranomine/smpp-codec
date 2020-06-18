@@ -1,16 +1,15 @@
 {
-	"category" : "SMPP-Connection",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "SMPPHandler",
+	"category" : "SMPP-Connection",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"isAuthenticated",
 		"onAuthTimeout",
-		"sessionInitTimeout" ],
+		"sessionInitTimeout"
+	],
 	"name" : "SMPPServerHandler",
-	"pools" : [
-		 ],
-	"super" : "SMPPHandler",
-	"type" : "normal" }
+	"type" : "normal"
+}

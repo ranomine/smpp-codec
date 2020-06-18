@@ -1,15 +1,14 @@
 {
-	"category" : "SMPP-Connection-Tests",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "SMPP-Connection-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"connection",
-		"handler" ],
+		"handler"
+	],
 	"name" : "SMPPHandlerTest",
-	"pools" : [
-		 ],
-	"super" : "TestCase",
-	"type" : "normal" }
+	"type" : "normal"
+}

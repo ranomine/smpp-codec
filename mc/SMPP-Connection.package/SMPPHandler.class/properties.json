@@ -1,10 +1,10 @@
 {
-	"category" : "SMPP-Connection",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "HolgerHansPeterFreyther 8/29/2014 15:03",
+	"super" : "Object",
+	"category" : "SMPP-Connection",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"on_unhandled_command",
 		"on_unhandled_response",
@@ -20,9 +20,8 @@
 		"enquireLinkTimer",
 		"boundReceiver",
 		"boundSender",
-		"role" ],
+		"role"
+	],
 	"name" : "SMPPHandler",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,14 +1,11 @@
 {
-	"category" : "SMPP-Connection",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "SMPPClientHandler",
-	"pools" : [
-		 ],
 	"super" : "SMPPHandler",
-	"type" : "normal" }
+	"category" : "SMPP-Connection",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SMPPClientHandler",
+	"type" : "normal"
+}

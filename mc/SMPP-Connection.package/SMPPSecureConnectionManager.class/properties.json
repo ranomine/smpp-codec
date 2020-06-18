@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "LogArea",
-	"category" : "SMPP-Connection-Logging",
+	"super" : "SMPPConnectionManager",
+	"category" : "SMPP-Connection",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "LogAreaSMPPConnection",
+	"name" : "SMPPSecureConnectionManager",
 	"type" : "normal"
 }

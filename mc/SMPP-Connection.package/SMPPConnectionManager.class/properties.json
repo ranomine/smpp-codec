@@ -1,10 +1,10 @@
 {
-	"category" : "SMPP-Connection",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "HolgerHansPeterFreyther 7/28/2014 12:04",
+	"super" : "Object",
+	"category" : "SMPP-Connection",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"socket",
 		"acceptLoop",
@@ -22,9 +22,8 @@
 		"logger",
 		"connectionName",
 		"port",
-		"role" ],
+		"role"
+	],
 	"name" : "SMPPConnectionManager",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

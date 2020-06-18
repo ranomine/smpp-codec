@@ -1,18 +1,17 @@
 {
-	"category" : "SMPP-Connection-Tests",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "SMPPConnection",
+	"category" : "SMPP-Connection-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"reachable",
 		"sent",
 		"omitResult",
 		"scheduleToSuper",
-		"scheduledCommands" ],
+		"scheduledCommands"
+	],
 	"name" : "SMPPMockConnection",
-	"pools" : [
-		 ],
-	"super" : "SMPPConnection",
-	"type" : "normal" }
+	"type" : "normal"
+}

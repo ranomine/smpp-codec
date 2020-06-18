@@ -1,17 +1,16 @@
 {
-	"category" : "SMPP-Connection",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "OsmoStreamSocketBase",
+	"category" : "SMPP-Connection",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"writeQueue",
 		"handler",
 		"onConnectionClosed",
-		"connectionName" ],
+		"connectionName"
+	],
 	"name" : "SMPPConnection",
-	"pools" : [
-		 ],
-	"super" : "OsmoStreamSocketBase",
-	"type" : "normal" }
+	"type" : "normal"
+}
