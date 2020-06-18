@@ -1,4 +1,4 @@
-as yet unclassified
+baselines
 baseline: spec
 	<baseline>
 
@@ -12,7 +12,7 @@ baseline: spec
 			project: 'OsmoLogging' with: [
 				spec
 					className: #ConfigurationOfOsmoLogging;
-					versionString: '2';
+					versionString: '5';
 					repository: 'http://smalltalkhub.com/mc/osmocom/Logging/main/' ];
 			project: 'OsmoNetwork' with: [
 				spec
