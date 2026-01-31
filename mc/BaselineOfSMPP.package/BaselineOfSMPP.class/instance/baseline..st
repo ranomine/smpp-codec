@@ -14,9 +14,9 @@ baseline: spec
 		spec
 			baseline: 'OsmoNetwork'
 			with: [ 
-			spec repository: 'github://moiji-mobile/osmocom-network:v8/source' ].
+			spec repository: 'github://moiji-mobile/osmocom-network:v10/source' ].
 		spec baseline: 'OsmoCore' with: [
-			spec repository: 'github://moiji-mobile/osmocom-core:v8/source' ].
+			spec repository: 'github://moiji-mobile/osmocom-core:v9/source' ].
 
 		spec
 			package: #'SMPP-Codec' with: [ spec requires: #( 'OsmoGSM' ) ];
